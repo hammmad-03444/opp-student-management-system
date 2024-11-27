@@ -1,0 +1,20 @@
+{
+  "name": "opp-student-management-system",
+  "version": "1.0.0",
+  "description": "This is the multi task student management system which madeup by OOP",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "MHK",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.14.9"
+  },
+  "dependencies": {
+    "inquirer": "^9.3.0"
+  }
+}
